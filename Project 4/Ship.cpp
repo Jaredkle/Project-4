@@ -22,6 +22,7 @@ Ship::Ship() {
     end = 0;
     num_hits = 0;
     size = 0;
+// hi
 }
 
 Ship::Ship(Position start_in, Position end_in) {
